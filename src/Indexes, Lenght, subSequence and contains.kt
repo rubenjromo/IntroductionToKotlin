@@ -22,7 +22,6 @@ fun main(args: Array<String>){
 
     var str1 = "A random string"
     var str2 = "B random string"
-
     println("Strings Equal: ${str1.equals(str2)}")
     println("Strings Equal: ${str1==str2}")
 
